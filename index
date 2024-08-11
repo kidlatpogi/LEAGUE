@@ -1,0 +1,129 @@
+<html>
+<head>
+
+    <title>LEAGUE</title>
+
+    <style>
+        h1, h2, h3, h4{
+            text-align: center;
+            margin: 0;
+            padding: 10px;
+        }
+        
+        p {
+            text-align: justify;
+            margin: 0 auto;
+            max-width: 800px;
+            line-height: 1.6;
+        }
+
+        section {
+            text-align: center; 
+            padding: 20px; 
+        }
+
+        ol, ul {
+            display: inline-block;
+            text-align: left;
+            list-style-position: inside;
+        }
+
+        table {
+            margin: 0 auto; 
+            width: 60%;
+        }
+
+        th, td {
+            border: 2px solid #000; 
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #CDFAFA;
+        }
+
+        td {
+            background-color: #0AC8B9
+
+;
+        }
+
+    </style>
+    
+    <h1>Why we should play League of Legends</h1>
+    <h4>by Zeus</h4>
+
+</head>
+
+<body>
+    <section>
+        <h2> What is League of Legends? </h2>
+        <p> League of Legends is like a Skibidi Toilet rave where 10 goofy toilets with superpowers try to knock over each other’s giant toilet throne. Each team of five toilets gets gold toilet paper for doing toilet stuff, and they use it to get even crazier toilet upgrades. The winner is the team that can knock over the other team’s big toilet throne before theirs gets knocked over. It’s all about epic toilet shenanigans and toilet paper madness!</p>
+    </section>
+
+    <section>
+        <h2><b><u>Reasons</u></b></h2>
+        <ol>
+            <li>Wala lang gusto ko lang.</li>
+            <li>Hindi pa silver si Kenenth.</li>
+            <li>Miss Fortune.</li>
+            <li>Win.</li>
+            <li>It's fun.</li>
+        </ol>
+    </section>
+
+    <section>
+        <h2>Lanes</h2>
+
+        <p>
+            <table border = "1">
+                <tr>
+                    <td>Top Lane</td>
+                    <th>Gigachad Lane</th>
+                </tr>
+
+                <tr>
+                    <td>Jungle</td>
+                    <th>always at fault</th>
+                </tr>
+
+                <tr>
+                    <td>Mid Lane</td>
+                    <th>Gayest lane</th>
+                </tr>
+
+                <tr>
+                    <td>Bot Lane</td>
+                    <th>STUPID!!!</th>
+                </tr>
+
+                <tr>
+                    <td>Support</td>
+                    <th>GIGACHAD / gayshit</th>
+                </tr>
+
+
+            </table>
+        </p>
+
+
+    </section>
+
+    <section>
+        <h2>Come play with us!!</h2>
+        <br><h3>We have</h3></br>
+
+        <ul>
+            <li>Kenneth gymburat (bisaya) as Top</li>
+            <li>Aldrin iron deficiency as Jungle</li>
+            <li>Domeng BAKLA as Mid/Support</li>
+            <li>Jasper bulag as Top/Support</li>
+            <li>Ben Tulog as Jungle/Support</li>
+        </ul>
+    </section>
+
+
+</body>
+
+</html>
